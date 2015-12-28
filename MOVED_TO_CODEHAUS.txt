@@ -1,0 +1,3 @@
+fabric3 has moved to Codehaus at http://fabric3.codehaus.org
+SVN has moved to http://svn.codehaus.org/fabric3/
+
